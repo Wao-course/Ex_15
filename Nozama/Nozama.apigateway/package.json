@@ -10,10 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "crypto": "^1.0.1",
     "express": "^4.19.2",
     "express-rate-limit": "^7.2.0",
     "express-session": "^1.18.0",
     "http-proxy-middleware": "^3.0.0",
+    "jaeger-tracer": "^1.1.8",
     "keycloak-connect": "^24.0.3",
     "morgan": "^1.10.0",
     "traceparent": "^1.0.0"
